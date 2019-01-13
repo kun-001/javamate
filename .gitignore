@@ -1,2 +1,5 @@
 # 忽略idea文件
 .idea
+.settings
+.classpath
+.project
